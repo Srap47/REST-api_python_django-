@@ -1,0 +1,7 @@
+Summary
+
+    POST /user/create/: Creates a new user.
+    GET /users/: Retrieves a list of all users.
+    GET /user/<id>/: Retrieves a single user by ID.
+    PUT /user/<id>/update/: Updates a user by ID.
+    DELETE /user/<id>/delete/: Deletes a user by ID.
